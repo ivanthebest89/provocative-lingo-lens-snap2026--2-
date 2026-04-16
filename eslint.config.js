@@ -58,3 +58,8 @@ export default [
     },
   },
 ];
+/**
+ * ESlint configuration 
+ * this file defines the linting rules PLUGINS AND FILEPATHS 
+ * USED TO MAINTAIN CODE QUALITY AND CONSITANCY ACROSS THE PROJECT
+ */

@@ -1,6 +1,5 @@
 **Welcome to your ivans project** 
 
-**About**
 
 
 
@@ -24,9 +23,9 @@ VITE_BASE44_APP_BASE_URL=your_backend_url
 
 Run the app: `npm run dev`
 
-**Publish your changes**
 
 
 
-**Docs & Support**
+
+
 
