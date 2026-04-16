@@ -56,3 +56,6 @@ function App() {
 }
 
 export default App
+
+// main reacts componnts that wraps the whole application
+//router enables navigation between diffrent pages/routes

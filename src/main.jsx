@@ -6,3 +6,5 @@ import '@/index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <App />
 )
+//entry point of the application
+//also connects the react compont tree to the html document
