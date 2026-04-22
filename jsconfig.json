@@ -19,3 +19,5 @@
   "include": ["src/components/**/*.js", "src/pages/**/*.jsx", "src/Layout.jsx"],
   "exclude": ["node_modules", "dist", "src/vite-plugins", "src/components/ui", "src/api", "src/lib"]
 } 
+
+// This jsconfig.json file is used to configure the JavaScript language features in your project. It specifies the compiler options, including module resolution, JSX support, and type checking settings. The "include" field specifies which files to include in the project, while the "exclude" field specifies which files or directories to ignore. This configuration helps improve the development experience by providing better code completion, error checking, and navigation features in your code editor.

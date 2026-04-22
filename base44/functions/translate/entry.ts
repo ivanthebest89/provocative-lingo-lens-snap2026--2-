@@ -113,3 +113,6 @@ Be thorough in your medical analysis - identify any diseases, symptoms, conditio
     return Response.json({ error: error.message }, { status: 500 });
   }
 });
+
+// To run this function locally, use: deno run --allow-net --allow-read entry.ts
+// this will start a local server. You can send POST requests to http://localhost:8000 with a JSON body containing the required fields (mode, text or imageUrl, sourceLang, targetLang) to test the translation and medical analysis functionality.
